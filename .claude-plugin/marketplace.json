@@ -15,6 +15,19 @@
         "name": "Jesse Vincent",
         "email": "jesse@fsck.com"
       }
+    },
+    {
+      "name": "n8n-mcp-skills",
+      "source": "./plugins/n8n-mcp-skills",
+      "description": "14 skills expertas para armar workflows de n8n con el servidor n8n-mcp (expresiones, patrones, validación, nodos, código JS/Python, errores, binarios, sub-workflows, agentes IA, multi-instancia, self-hosting) + skill router y hooks.",
+      "version": "1.35.0",
+      "author": {
+        "name": "Romuald Członkowski",
+        "url": "https://aiadvisors.pl/en"
+      },
+      "homepage": "https://github.com/czlonkowski/n8n-skills",
+      "license": "MIT",
+      "category": "automation"
     }
   ]
 }
