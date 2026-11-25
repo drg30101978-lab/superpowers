@@ -1,0 +1,9 @@
+{
+  "name": "skill-doctor",
+  "version": "0.1.0",
+  "description": "Diagnostica skills a partir de los logs de sesión de Claude Code: detecta fricciones, propone parches y tests de regresión.",
+  "author": { "name": "sunfmin" },
+  "license": "MIT",
+  "repository": "https://github.com/sunfmin/skill-doctor",
+  "homepage": "https://github.com/sunfmin/skill-doctor"
+}

@@ -28,6 +28,18 @@
       "homepage": "https://github.com/czlonkowski/n8n-skills",
       "license": "MIT",
       "category": "automation"
+    },
+    {
+      "name": "skill-doctor",
+      "source": "./plugins/skill-doctor",
+      "description": "Diagnostica skills analizando los logs de sesión de Claude Code (~/.claude/projects): encuentra fricciones (rechazos, correcciones, tests fallidos), las cruza con el SKILL.md, genera parches y tests de regresión y abre un PR. Solo sirve con Claude Code.",
+      "version": "0.1.0",
+      "author": {
+        "name": "sunfmin"
+      },
+      "homepage": "https://github.com/sunfmin/skill-doctor",
+      "license": "MIT",
+      "category": "development"
     }
   ]
 }
